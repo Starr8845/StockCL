@@ -1,7 +1,8 @@
 # StockCL
-This is the depository for StockCL: Selective Contrastive Learning for Stock Trend Forecasting via Learnable Concepts, DASFAA 2024. 
+This is the depository for StockCL: Selective Contrastive Learning for Stock Trend Forecasting via Learnable Concepts, DASFAA 2024. In this paper, we develop a novel selective contrastive learning framework named StockCL for stock trend forecasting, which is applicable to any stock trend forecasting models. Our key insight is to identify latent concepts that drive the stock trends and select reliable contrastive pairs according to the samples’ belonging concepts and their label similarity.
 
-The code will be available soon as the code is currently being organized.
+The paper and the poster can be found in `./paper`. The code can be found in `./scripts`. 
+
 
 
 ### Appendix
